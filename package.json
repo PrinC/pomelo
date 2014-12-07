@@ -47,7 +47,7 @@
   },
   "peerDependencies": {
     "pomelo-logger": "0.1.6",
-  }
+  },
   "bin": {
     "pomelo": "./bin/pomelo"
   },
